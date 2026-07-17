@@ -29,6 +29,8 @@ common:
   url: portfolio/partech-portfolio.yml
 - type: Team
   url: https://partechpartners.com/team
+- type: Team
+  url: team/partech-team.yml
 - type: InvestmentThesis
   url: https://partechpartners.com/funds
 - type: News
