@@ -1,0 +1,71 @@
+aid: partech
+name: Partech
+description: 'Partech is a global, multi-stage venture capital firm founded in 1982 in Silicon Valley by European pioneers and headquartered in Paris, France, with offices in San Francisco, Berlin, Milan and Dakar. Partech invests from day one through growth via a family of dedicated funds: a Seed fund (since 2013, initial checks EUR 300k-3m), a Venture fund (Series A and Series B, EUR 5-12m, focused on B2B mission-critical software), a Growth fund (since 2015, EUR 25-70m and up to EUR 100m with LPs for European scale-ups with EUR 10-100m+ run rate), an Africa fund (since 2017, seed to Series C, EUR 1-15m across the continent) and an Impact fund (EUR 15-40m, Article 9 under SFDR). Core sectors span applicative and infrastructure SaaS, financial services and fintech/insurtech, marketplaces, consumer, healthcare, AI/ML, climate, security and cloud infrastructure. Partech backs founders across Europe, Africa and North America and has built a portfolio of hundreds of technology companies.'
+image: https://partechpartners.com/_next/static/media/partech-logo.be9d746a.png
+created: '2026-07-17'
+modified: '2026-07-17'
+url: https://partechpartners.com/
+specificationVersion: '0.20'
+x-type: venture-capital
+x-category: Venture Capital
+tags:
+- Venture Capital
+- Seed
+- Series A
+- Growth Equity
+- Fintech
+- SaaS
+- AI
+- Infrastructure
+- Europe
+- Africa
+apis: []
+common:
+- type: Website
+  url: https://partechpartners.com/
+- type: Portfolio
+  url: https://partechpartners.com/companies
+- type: Portfolio
+  url: portfolio/partech-portfolio.yml
+- type: Team
+  url: https://partechpartners.com/team
+- type: InvestmentThesis
+  url: https://partechpartners.com/funds
+- type: News
+  url: https://partechpartners.com/news
+- type: Story
+  url: https://partechpartners.com/story
+- type: Contact
+  url: https://partechpartners.com/contact
+- type: LinkedIn
+  url: https://www.linkedin.com/company/partech-partners/
+- type: Twitter
+  url: https://x.com/PartechPartners
+- type: Crunchbase
+  url: https://www.crunchbase.com/organization/partech
+- type: Features
+  data:
+  - 'Stage: Seed, Series A, Series B, Growth (seed to Series C in Africa)'
+  - 'Typical check (Seed): EUR 300k-3m'
+  - 'Typical check (Venture): EUR 5-12m (Series A / Series B)'
+  - 'Typical check (Growth): EUR 25-70m (up to EUR 100m with LPs)'
+  - 'Typical check (Africa): EUR 1-15m (seed to Series C)'
+  - 'Typical check (Impact): EUR 15-40m (Article 9 / SFDR)'
+  - 'Sectors: applicative & infrastructure SaaS, financial services / fintech, marketplaces, consumer, healthcare, AI/ML, climate, security, cloud infrastructure'
+  - 'Geography: Europe, Africa, North America'
+  - 'Founded: 1982 (Silicon Valley)'
+  - 'HQ: Paris, France'
+  - 'Offices: Paris, San Francisco, Berlin, Milan, Dakar'
+  sources:
+  - https://partechpartners.com/funds
+  - https://partechpartners.com/contact
+  - https://partechpartners.com/story
+  updated: '2026-07-17'
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+  url: https://apievangelist.com
+- FN: APIs.json
+  url: http://apisjson.org
+- FN: Partech
+  url: https://partechpartners.com/

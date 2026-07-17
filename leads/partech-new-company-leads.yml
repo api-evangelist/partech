@@ -1,0 +1,1635 @@
+generated: '2026-07-17'
+method: derived
+source_vc: partech
+leads:
+- name: ablefy
+  url: https://ablefy.io/
+  suggested_slug: ablefy
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Acatus
+  url: https://acatus.com/
+  suggested_slug: acatus
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Advano
+  url: https://www.advano.io/
+  suggested_slug: advano
+  sector: Industrial, Energy & IoT
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Agicap
+  url: https://agicap.fr/
+  suggested_slug: agicap
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: ai-coustics
+  url: https://ai-coustics.com/
+  suggested_slug: ai-coustics
+  sector: AI/ML
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Aiden.ai
+  url: http://www.aiden.ai/
+  suggested_slug: aidenai
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Akridata
+  url: https://www.akridata.com/
+  suggested_slug: akridata
+  sector: AI/ML
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Alassio
+  url: https://www.alassio.fr/
+  suggested_slug: alassio
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Alkemics
+  url: https://www.alkemics.com/
+  suggested_slug: alkemics
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Alltricks
+  url: http://alltricks.fr/
+  suggested_slug: alltricks
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Almentor
+  url: https://www.almentor.net/
+  suggested_slug: almentor
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Alphin
+  url: https://www.alphin.com/
+  suggested_slug: alphin
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Alpic
+  url: https://alpic.ai/
+  suggested_slug: alpic
+  sector: AI/ML
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Amblea
+  url: https://www.amblea.fr/
+  suggested_slug: amblea
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Amboss
+  url: https://www.amboss.com/
+  suggested_slug: amboss
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Apollo Shield
+  url: https://www.apolloshield.com/
+  suggested_slug: apollo-shield
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Aumio
+  url: https://aumio.de/
+  suggested_slug: aumio
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Aura
+  url: https://aura.services/
+  suggested_slug: aura
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Beacon Power Services
+  url: https://beaconpowerservices.com/
+  suggested_slug: beacon-power-services
+  sector: Industrial, Energy & IoT
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Beam
+  url: https://www.ridebeam.com/
+  suggested_slug: beam
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Beam Checkout
+  url: https://www.beamcheckout.com/
+  suggested_slug: beam-checkout
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Bearer
+  url: https://www.bearer.com/
+  suggested_slug: bearer
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Bestmile
+  url: https://bestmile.com/
+  suggested_slug: bestmile
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Billogram
+  url: https://billogram.com/
+  suggested_slug: billogram
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Blendid
+  url: https://www.blendid.com/
+  suggested_slug: blendid
+  sector: Food & Agritech
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Bloomon
+  url: https://www.bloomon.co.uk/
+  suggested_slug: bloomon
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Boosters
+  url: https://en.boosters.kr/
+  suggested_slug: boosters
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Cambridge Blockchain
+  url: https://cambridgeblockchain.org/
+  suggested_slug: cambridge-blockchain
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Candex
+  url: https://www.candex.com/
+  suggested_slug: candex
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Cardiologs
+  url: https://cardiologs.com/
+  suggested_slug: cardiologs
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Channable
+  url: https://www.channable.com/
+  suggested_slug: channable
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Cintoo
+  url: ''
+  suggested_slug: cintoo
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: CO2 AI
+  url: https://co2ai.com/
+  suggested_slug: co2-ai
+  sector: Climate
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: CoachHub
+  url: https://coachhub.io/
+  suggested_slug: coachhub
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Collectiv Food
+  url: https://collectivfood.com/
+  suggested_slug: collectiv-food
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Commsignia
+  url: https://www.commsignia.com/
+  suggested_slug: commsignia
+  sector: Industrial, Energy & IoT
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Crossing Minds
+  url: https://www.crossingminds.com/
+  suggested_slug: crossing-minds
+  sector: AI/ML
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: CyberVadis
+  url: https://cybervadis.com/
+  suggested_slug: cybervadis
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Damae Medical
+  url: https://damae-medical.com/
+  suggested_slug: damae-medical
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Datajoy
+  url: https://datajoy.com/
+  suggested_slug: datajoy
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Dayuse
+  url: https://www.dayuse.com/
+  suggested_slug: dayuse
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Deako
+  url: https://www.deako.com/
+  suggested_slug: deako
+  sector: Industrial, Energy & IoT
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Dejbox
+  url: https://www.dejbox.fr/
+  suggested_slug: dejbox
+  sector: Food & Agritech
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Demander Justice
+  url: http://demanderjustice.com/
+  suggested_slug: demander-justice
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Diamond
+  url: https://www.diamond.io/
+  suggested_slug: diamond
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Djamo
+  url: https://www.djamo.com/
+  suggested_slug: djamo
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: E-Peas
+  url: https://e-peas.com/
+  suggested_slug: e-peas
+  sector: Industrial, Energy & IoT
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Easop
+  url: https://www.easop.com/
+  suggested_slug: easop
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Endless West
+  url: https://endlesswest.com/
+  suggested_slug: endless-west
+  sector: Food & Agritech
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Energysquare
+  url: https://energysquare.co/
+  suggested_slug: energysquare
+  sector: Industrial, Energy & IoT
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Enter
+  url: https://www.enter.de/
+  suggested_slug: enter
+  sector: Climate
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Epsor
+  url: https://www.epsor.fr/
+  suggested_slug: epsor
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Ermeo
+  url: http://www.ermeo.com/
+  suggested_slug: ermeo
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Europass
+  url: https://europasschina.com/
+  suggested_slug: europass
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Evaneos
+  url: https://www.evaneos.com/
+  suggested_slug: evaneos
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Exein
+  url: https://www.exein.io/
+  suggested_slug: exein
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Exporo
+  url: https://exporo.com/
+  suggested_slug: exporo
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Fastwork
+  url: https://fastwork.co/
+  suggested_slug: fastwork
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Feetme
+  url: https://feetmehealth.com/
+  suggested_slug: feetme
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Finku
+  url: https://www.finku.id/
+  suggested_slug: finku
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Flatlooker
+  url: https://www.flatlooker.com/
+  suggested_slug: flatlooker
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Flease
+  url: https://www.flease.fr/
+  suggested_slug: flease
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: FlexAI
+  url: https://www.flex.ai/
+  suggested_slug: flexai
+  sector: AI/ML
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Formality
+  url: https://www.formality.com/
+  suggested_slug: formality
+  sector: AI/ML
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Foxintelligence
+  url: https://www.foxintelligence.io/
+  suggested_slug: foxintelligence
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Fresha
+  url: https://www.fresha.com/
+  suggested_slug: fresha
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Freterium
+  url: https://www.freterium.com/
+  suggested_slug: freterium
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Frontier Car group
+  url: https://www.frontiercargroup.com/
+  suggested_slug: frontier-car-group
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: FYLD
+  url: https://fyld.ai/
+  suggested_slug: fyld
+  sector: Industrial, Energy & IoT
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Gebeya
+  url: https://www.gebeya.com/
+  suggested_slug: gebeya
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Gens de confiance
+  url: https://gensdeconfiance.fr/
+  suggested_slug: gens-de-confiance
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Getsafe
+  url: https://www.hellogetsafe.com/
+  suggested_slug: getsafe
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Gireve
+  url: https://www.gireve.com/
+  suggested_slug: gireve
+  sector: Climate
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Gourmey
+  url: https://www.gourmey.com/
+  suggested_slug: gourmey
+  sector: Food & Agritech
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Grabr
+  url: https://grabr.io/
+  suggested_slug: grabr
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Greenlyte
+  url: https://www.greenlyte.tech/
+  suggested_slug: greenlyte
+  sector: Climate
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Groover
+  url: https://groover.co/
+  suggested_slug: groover
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Guardicore
+  url: https://www.guardicore.com/
+  suggested_slug: guardicore
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Happytal
+  url: https://www.happytal.com/
+  suggested_slug: happytal
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: HD
+  url: http://www.hd.care/
+  suggested_slug: hd
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Healint
+  url: https://healint.com/
+  suggested_slug: healint
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Holberton School
+  url: https://holbertonschool.com/
+  suggested_slug: holberton-school
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: HostnFly
+  url: https://www.hostnfly.com/
+  suggested_slug: hostnfly
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Hum Capital
+  url: https://humcapital.com/
+  suggested_slug: hum-capital
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Hyground
+  url: https://hyground.ai/
+  suggested_slug: hyground
+  sector: AI/ML
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Idecsi
+  url: https://www.idecsi.com/
+  suggested_slug: idecsi
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: igloo
+  url: https://iglooinsure.com/
+  suggested_slug: igloo
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: IMP Software
+  url: https://impsoftware.co.uk/
+  suggested_slug: imp-software
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Inmemori
+  url: https://www.inmemori.com/
+  suggested_slug: inmemori
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Inyad
+  url: https://www.inyad.com/
+  suggested_slug: inyad
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Jellysmack
+  url: http://www.jellysmack.com/
+  suggested_slug: jellysmack
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Joko
+  url: https://home.joko.com/
+  suggested_slug: joko
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Kaizo
+  url: https://kaizo.com/
+  suggested_slug: kaizo
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Kantox
+  url: https://www.kantox.com/
+  suggested_slug: kantox
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Karnott
+  url: https://www.karnott.fr/
+  suggested_slug: karnott
+  sector: Food & Agritech
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Kartable
+  url: https://www.kartable.com/
+  suggested_slug: kartable
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Kenbi
+  url: https://kenbi.de/
+  suggested_slug: kenbi
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: KoRo
+  url: https://www.koro.com/
+  suggested_slug: koro
+  sector: Food & Agritech
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Kredete
+  url: https://www.kredete.io/
+  suggested_slug: kredete
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Kyash
+  url: https://kyash.co/
+  suggested_slug: kyash
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: La Solive
+  url: https://www.la-solive.com/
+  suggested_slug: la-solive
+  sector: Climate
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: La Vie
+  url: https://www.laviefoods.com/
+  suggested_slug: la-vie
+  sector: Food & Agritech
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Lalilo
+  url: https://lalilo.com/
+  suggested_slug: lalilo
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Le Collectionist
+  url: https://lecollectionist.com/
+  suggested_slug: le-collectionist
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: LemonBox
+  url: https://www.lemonbox.com.cn/
+  suggested_slug: lemonbox
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Lendtable
+  url: https://lendtable.com/
+  suggested_slug: lendtable
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Lifen
+  url: https://www.lifen.fr/
+  suggested_slug: lifen
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: littlefish
+  url: https://littlefishapp.com/
+  suggested_slug: littlefish
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Lucky Cart
+  url: http://luckycart.com/
+  suggested_slug: lucky-cart
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: M-Files
+  url: https://www.m-files.com/
+  suggested_slug: m-files
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Macrometa
+  url: https://www.macrometa.co/
+  suggested_slug: macrometa
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: MadKudu
+  url: http://madkudu.com/
+  suggested_slug: madkudu
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Makersite
+  url: https://makersite.io/
+  suggested_slug: makersite
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: ManoMano
+  url: https://www.manomano.co.uk/
+  suggested_slug: manomano
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Markable
+  url: https://www.markable.ai/
+  suggested_slug: markable
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Material Exchange
+  url: https://material-exchange.com/
+  suggested_slug: material-exchange
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Maze
+  url: https://maze.co/
+  suggested_slug: maze
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Medigate
+  url: http://www.medigate.io/
+  suggested_slug: medigate
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Merama
+  url: https://www.merama.io/
+  suggested_slug: merama
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Mercanis
+  url: https://www.mercanis.com/
+  suggested_slug: mercanis
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Metadata
+  url: https://www.metadata.io/
+  suggested_slug: metadata
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: METYCLE
+  url: https://metycle.com/
+  suggested_slug: metycle
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Mindlogic
+  url: https://mindlogic.ai/
+  suggested_slug: mindlogic
+  sector: AI/ML
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Mindsay
+  url: https://www.mindsay.com/
+  suggested_slug: mindsay
+  sector: AI/ML
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Mipsology
+  url: https://mipsology.com/
+  suggested_slug: mipsology
+  sector: AI/ML
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Modeinspect
+  url: https://modeinspect.com/
+  suggested_slug: modeinspect
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Monax Labs
+  url: http://www.monaxlabs.io/
+  suggested_slug: monax-labs
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Moneyfellows
+  url: https://moneyfellows.com/
+  suggested_slug: moneyfellows
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Mooncard
+  url: https://www.mooncard.co/
+  suggested_slug: mooncard
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: My Real Trip
+  url: https://www.myrealtrip.com/
+  suggested_slug: my-real-trip
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: NA-KD
+  url: https://www.na-kd.com/
+  suggested_slug: na-kd
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Nawy
+  url: https://www.nawy.com/
+  suggested_slug: nawy
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Neoplants
+  url: https://neoplants.com/
+  suggested_slug: neoplants
+  sector: Climate
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Netbeez
+  url: https://netbeez.net/
+  suggested_slug: netbeez
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Nomad Homes
+  url: https://nomadhomes.co/
+  suggested_slug: nomad-homes
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: NovaSparks
+  url: https://novasparks.com/
+  suggested_slug: novasparks
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Novicap
+  url: https://novicap.com/
+  suggested_slug: novicap
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Nowports
+  url: https://nowports.com/
+  suggested_slug: nowports
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: NPco
+  url: https://www.npco.ai/
+  suggested_slug: npco
+  sector: Industrial, Energy & IoT
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Odaseva
+  url: https://www.odaseva.com/
+  suggested_slug: odaseva
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Once
+  url: https://getonce.com/
+  suggested_slug: once
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: OpenIO
+  url: https://www.openio.io/
+  suggested_slug: openio
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Opensesame
+  url: http://opensesame.com/
+  suggested_slug: opensesame
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: OpsMill
+  url: https://opsmill.com/
+  suggested_slug: opsmill
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Ornikar
+  url: https://www.ornikar.com/
+  suggested_slug: ornikar
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Orus
+  url: https://www.orus.eu/
+  suggested_slug: orus
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Oviva
+  url: http://oviva.com/
+  suggested_slug: oviva
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Papernest
+  url: https://www.papernest.com/
+  suggested_slug: papernest
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Payt
+  url: https://www.paytsoftware.com/
+  suggested_slug: payt
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Peanut App
+  url: https://www.peanut-app.io/
+  suggested_slug: peanut-app
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: People.ai
+  url: https://people.ai/
+  suggested_slug: peopleai
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: PerfectStay
+  url: https://www.perfectstay.com/
+  suggested_slug: perfectstay
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Pimento
+  url: https://www.pimento.design/
+  suggested_slug: pimento
+  sector: AI/ML
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Plans
+  url: https://lun.energy/
+  suggested_slug: plans
+  sector: Climate
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Plato
+  url: https://www.platohq.com/
+  suggested_slug: plato
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Plum
+  url: https://www.plum-living.com/
+  suggested_slug: plum
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Plumerai
+  url: https://plumerai.com/
+  suggested_slug: plumerai
+  sector: AI/ML
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Popmeals
+  url: https://popmeals.com.my/
+  suggested_slug: popmeals
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Precium
+  url: https://precium.com/
+  suggested_slug: precium
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Presti
+  url: http://presti.ai/
+  suggested_slug: presti
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: PrimaryIO
+  url: http://www.primaryio.com/
+  suggested_slug: primaryio
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Privitar
+  url: https://www.privitar.com/
+  suggested_slug: privitar
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Prolific
+  url: https://www.prolific.co/
+  suggested_slug: prolific
+  sector: AI/ML
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Propseller
+  url: https://propseller.com/
+  suggested_slug: propseller
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Push Doctor
+  url: https://www.pushdoctor.co.uk/
+  suggested_slug: push-doctor
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Qapa
+  url: http://qapa.fr/
+  suggested_slug: qapa
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Qevlar AI
+  url: https://www.qevlar.com/
+  suggested_slug: qevlar-ai
+  sector: AI/ML
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: QPLIX
+  url: https://www.qplix.com/
+  suggested_slug: qplix
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Quasar
+  url: https://quasar.ai/
+  suggested_slug: quasar
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: QUIBIM
+  url: https://www.quibim.com/
+  suggested_slug: quibim
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Reliance Health
+  url: https://www.getreliancehealth.com/
+  suggested_slug: reliance-health
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Remarkable AI
+  url: https://www.beremarkable.ai/
+  suggested_slug: remarkable-ai
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Remedee Labs
+  url: https://remedeelabs.com/
+  suggested_slug: remedee-labs
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Resolution Games
+  url: http://resolutiongames.com/
+  suggested_slug: resolution-games
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Retraced
+  url: https://www.retraced.com/
+  suggested_slug: retraced
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Revibe
+  url: https://revibe.me/
+  suggested_slug: revibe
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Rinse
+  url: https://www.rinse.com/
+  suggested_slug: rinse
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Roadsync
+  url: https://www.roadsync.com/
+  suggested_slug: roadsync
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: RockFi
+  url: https://www.rockfi.fr/
+  suggested_slug: rockfi
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Roger
+  url: https://goroger.com/
+  suggested_slug: roger
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Rohlik
+  url: https://www.rohlik.group/
+  suggested_slug: rohlik
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Rouje
+  url: https://int.rouje.com/
+  suggested_slug: rouje
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: SambaTV
+  url: https://samba.tv/
+  suggested_slug: sambatv
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: scnd
+  url: https://www.scnd.com/
+  suggested_slug: scnd
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Seatti
+  url: https://www.seatti.co/
+  suggested_slug: seatti
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Sendwave
+  url: https://www.sendwave.com/
+  suggested_slug: sendwave
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Sensee
+  url: http://sensee.com/
+  suggested_slug: sensee
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Sensome
+  url: https://www.sensome.com/
+  suggested_slug: sensome
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Shakers
+  url: https://www.shakersworks.com/
+  suggested_slug: shakers
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Shipper
+  url: https://shipper.id/
+  suggested_slug: shipper
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Shohoz
+  url: https://www.shohoz.com/
+  suggested_slug: shohoz
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: SideCare
+  url: https://www.sidecare.com/
+  suggested_slug: sidecare
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Sigfox
+  url: http://sigfox.com/
+  suggested_slug: sigfox
+  sector: Industrial, Energy & IoT
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Skello
+  url: https://en.skello.io/
+  suggested_slug: skello
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Smartness
+  url: https://www.smartness.com/
+  suggested_slug: smartness
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Stilla Technologies
+  url: https://www.stillatechnologies.com/
+  suggested_slug: stilla-technologies
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Streamroot
+  url: https://streamroot.io/
+  suggested_slug: streamroot
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Studocu
+  url: https://www.studocu.com/
+  suggested_slug: studocu
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Sumary
+  url: https://sumary.com/
+  suggested_slug: sumary
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: SustainCERT
+  url: https://sustain-cert.com/
+  suggested_slug: sustaincert
+  sector: Climate
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Symmetrical
+  url: https://symmetrical.ai/
+  suggested_slug: symmetrical
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: TerraPay
+  url: https://www.terrapay.com/
+  suggested_slug: terrapay
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: TestGorilla
+  url: https://www.testgorilla.com/
+  suggested_slug: testgorilla
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: The Bouqs
+  url: https://bouqs.com/
+  suggested_slug: the-bouqs
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: The Exploration Company
+  url: https://www.exploration.space/
+  suggested_slug: the-exploration-company
+  sector: Industrial, Energy & IoT
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: TheGuarantors
+  url: http://theguarantors.com/
+  suggested_slug: theguarantors
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Tinvio
+  url: https://tinvio.com/
+  suggested_slug: tinvio
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Track Titan
+  url: https://www.tracktitan.io/
+  suggested_slug: track-titan
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: TradeDepot
+  url: https://www.tradedepot.co/
+  suggested_slug: tradedepot
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Transcelestial
+  url: https://transcelestial.com/
+  suggested_slug: transcelestial
+  sector: Industrial, Energy & IoT
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: TransferRoom
+  url: https://www.transferroom.com/
+  suggested_slug: transferroom
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Tugende
+  url: https://gotugende.com/
+  suggested_slug: tugende
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: TVTY
+  url: http://tvty.tv/
+  suggested_slug: tvty
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Ubble
+  url: https://www.ubble.ai/
+  suggested_slug: ubble
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Ukio
+  url: https://www.stayukio.com/
+  suggested_slug: ukio
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Upmem
+  url: http://www.upmem.com/
+  suggested_slug: upmem
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: UpSlide
+  url: https://www.upslide.net/
+  suggested_slug: upslide
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Upsun
+  url: https://upsun.com/
+  suggested_slug: upsun
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Urban Sports Club
+  url: https://urbansportsclub.com/
+  suggested_slug: urban-sports-club
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Us2.AI
+  url: https://us2.ai/
+  suggested_slug: us2ai
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Vendease
+  url: https://vendease.com/
+  suggested_slug: vendease
+  sector: Marketplace
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Volterra
+  url: https://www.ves.io/
+  suggested_slug: volterra
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Vsora
+  url: http://www.vsora.com/
+  suggested_slug: vsora
+  sector: AI/ML
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Vyne
+  url: https://www.payvyne.com/
+  suggested_slug: vyne
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Walkie-Talkie
+  url: https://walkie-talkie.io/
+  suggested_slug: walkie-talkie
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Wanted
+  url: https://getwanted.com/
+  suggested_slug: wanted
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Worders
+  url: https://worders.net/
+  suggested_slug: worders
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: xFarm Technologies
+  url: https://xfarm.ag/
+  suggested_slug: xfarm-technologies
+  sector: Food & Agritech
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Yampa
+  url: https://www.yampa.ai/
+  suggested_slug: yampa
+  sector: AI/ML
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Zaapi
+  url: https://en.zaapi.com/
+  suggested_slug: zaapi
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Zeel
+  url: http://zeel.com/
+  suggested_slug: zeel
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Zenyum
+  url: https://www.zenyum.com/
+  suggested_slug: zenyum
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Zolar
+  url: https://www.zolar.de/
+  suggested_slug: zolar
+  sector: Climate
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false

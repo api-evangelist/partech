@@ -1,0 +1,2466 @@
+generated: '2026-07-17'
+method: searched
+source: https://partechpartners.com/companies
+summary:
+  portfolio_total: 269
+  in_network: 36
+  api_providers: 20
+  missing: 233
+  stubs_created: 0
+companies:
+- name: AB Tasty
+  url: https://www.abtasty.com/
+  description: The customer experience optimization company
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  slug: ab-tasty
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: ablefy
+  url: https://ablefy.io/
+  description: SaaS platform providing online infrastructure
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ablefy
+- name: Acatus
+  url: https://acatus.com/
+  description: Debt capital markets platform
+  sector: Financial Services
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: acatus
+- name: Advano
+  url: https://www.advano.io/
+  description: Scalable silicon solution for Li-ion batteries
+  sector: Industrial, Energy & IoT
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: advano
+- name: Agicap
+  url: https://agicap.fr/
+  description: Cash-flow management & forecasting tool for SMEs
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: agicap
+- name: ai-coustics
+  url: https://ai-coustics.com/
+  description: Studio-quality audio, always, with ai-coustics
+  sector: AI/ML
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ai-coustics
+- name: Aiden.ai
+  url: http://www.aiden.ai/
+  description: Building the first AI-powered marketing analyst
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aidenai
+- name: Akeneo
+  url: https://www.akeneo.com/
+  description: New standard for PIM platform
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  slug: akeneo
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Akridata
+  url: https://www.akridata.com/
+  description: Architecture for Edge-to-Cloud data analytics
+  sector: AI/ML
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: akridata
+- name: Alan
+  url: https://alan.com/
+  description: Mobile-first customer-centric digital health insurance
+  sector: Financial Services
+  status: unknown
+  source: https://partechpartners.com/companies
+  slug: alan-com
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Alassio
+  url: https://www.alassio.fr/
+  description: AI-powered payroll OS
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: alassio
+- name: Alkemics
+  url: https://www.alkemics.com/
+  description: The first collaborative intelligence network
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: alkemics
+- name: Alltricks
+  url: http://alltricks.fr/
+  description: The leading online shop for sportswear and bikes
+  sector: Consumer
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: alltricks
+- name: Almentor
+  url: https://www.almentor.net/
+  description: E-learning & people development platform in the MENA
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: almentor
+- name: Alphin
+  url: https://www.alphin.com/
+  description: Local influencer marketing platform
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: alphin
+- name: Alpic
+  url: https://alpic.ai/
+  description: Deploy, manage, and scale your MCP servers
+  sector: AI/ML
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: alpic
+- name: Amblea
+  url: https://www.amblea.fr/
+  description: The first smart network for medical transportation
+  sector: Healthcare
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: amblea
+- name: Amboss
+  url: https://www.amboss.com/
+  description: Digital medical knowledge platform for academic purpose
+  sector: Healthcare
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: amboss
+- name: Apollo Shield
+  url: https://www.apolloshield.com/
+  description: Portable device that can detect intrusive drones
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: apollo-shield
+- name: Aumio
+  url: https://aumio.de/
+  description: Sleep and mindfulness app for children's mental health
+  sector: Healthcare
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aumio
+- name: Aura
+  url: https://aura.services/
+  description: Creating a world where everyone is safe
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aura
+- name: Auxmoney
+  url: https://www.auxmoney.com/
+  description: Germany’s leading online marketplace for P2P lending
+  sector: Financial Services
+  status: unknown
+  source: https://partechpartners.com/companies
+  slug: auxmoney
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Ava
+  url: http://www.ava.me/
+  description: Speech to text mobile app for the hearing impaired
+  sector: Healthcare
+  status: active
+  source: https://partechpartners.com/companies
+  slug: ava
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Beacon Power Services
+  url: https://beaconpowerservices.com/
+  description: Transforming Energy Management Through Innovation
+  sector: Industrial, Energy & IoT
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: beacon-power-services
+- name: Beam
+  url: https://www.ridebeam.com/
+  description: Micro-mobility company offering on-demand e-scooters
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: beam
+- name: Beam Checkout
+  url: https://www.beamcheckout.com/
+  description: One-click Checkout for Online Stores
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: beam-checkout
+- name: Bearer
+  url: https://www.bearer.com/
+  description: The data security platform
+  sector: Infrastructure SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bearer
+- name: Bestmile
+  url: https://bestmile.com/
+  description: A cloud-based fleet management platform
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bestmile
+- name: Billogram
+  url: https://billogram.com/
+  description: Cloud-first customer portal for businesses
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: billogram
+- name: Bitrise
+  url: https://www.bitrise.io/
+  description: The leading mobile DevOps platform
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  slug: bitrise
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Blendid
+  url: https://www.blendid.com/
+  description: Robotic & AI-enabled food automation solutions
+  sector: Food & Agritech
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: blendid
+- name: Blink
+  url: https://joinblink.com/
+  description: Employee intranet app for front-line workers
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  slug: blink
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Bloomon
+  url: https://www.bloomon.co.uk/
+  description: An online flower subscription service
+  sector: Consumer
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bloomon
+- name: Boosters
+  url: https://en.boosters.kr/
+  description: The New Standard In Commerce
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: boosters
+- name: Brandwatch
+  url: https://www.brandwatch.com/
+  description: Leading provider of Digital Consumer Intelligence
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  slug: brandwatch
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Brevo
+  url: https://www.brevo.com/
+  description: CRM suite designed to build customer relationships
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  slug: brevo
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Bugcrowd
+  url: https://www.bugcrowd.com/
+  description: Crowdsourced cybersecurity for web and mobile apps
+  sector: Infrastructure SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  slug: bugcrowd
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Cambridge Blockchain
+  url: https://cambridgeblockchain.org/
+  description: Digital identity software for financial institutions
+  sector: Financial Services
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cambridge-blockchain
+- name: Candex
+  url: https://www.candex.com/
+  description: Collaboration apps to manage corporate payments
+  sector: Financial Services
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: candex
+- name: Cardiologs
+  url: https://cardiologs.com/
+  description: Committed to transforming cardiac diagnostics
+  sector: Healthcare
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cardiologs
+- name: Channable
+  url: https://www.channable.com/
+  description: E-commerce feed management and PPC automation solution
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: channable
+- name: Cintoo
+  description: Leverage the unlimited potential of 3D scan data
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cintoo
+- name: CloudQuery
+  url: https://www.cloudquery.io/
+  description: Bringing Clarity into Cloud Infrastructure
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  slug: cloudquery
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: CO2 AI
+  url: https://co2ai.com/
+  description: THE ENTERPRISE SUSTAINABILITY DATA PLATFORM
+  sector: Climate
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: co2-ai
+- name: CoachHub
+  url: https://coachhub.io/
+  description: Digital coaching provider
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coachhub
+- name: Collectiv Food
+  url: https://collectivfood.com/
+  description: Online B2B direct procurement platform for restaurants
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: collectiv-food
+- name: Commsignia
+  url: https://www.commsignia.com/
+  description: A leading developer of V2X technology
+  sector: Industrial, Energy & IoT
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: commsignia
+- name: Crossing Minds
+  url: https://www.crossingminds.com/
+  description: Smartest platform powering perceptive recommendations
+  sector: AI/ML
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: crossing-minds
+- name: CyberVadis
+  url: https://cybervadis.com/
+  description: Solution for third party cybersecurity risk assessments
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cybervadis
+- name: Damae Medical
+  url: https://damae-medical.com/
+  description: Non-invasive and personalized skin cancer diagnosis
+  sector: Healthcare
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: damae-medical
+- name: Datajoy
+  url: https://datajoy.com/
+  description: Next-gen Business Intelligence tool for subscriptions
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: datajoy
+- name: Dayuse
+  url: https://www.dayuse.com/
+  description: Marketplace for booking hotels in the day time
+  sector: Marketplace
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dayuse
+- name: Deako
+  url: https://www.deako.com/
+  description: Connected switches for controlling lighting
+  sector: Industrial, Energy & IoT
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: deako
+- name: Dejbox
+  url: https://www.dejbox.fr/
+  description: Delivers delicious lunch boxes to the office
+  sector: Food & Agritech
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dejbox
+- name: Demander Justice
+  url: http://demanderjustice.com/
+  description: Online platform to access legal services
+  sector: Consumer
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: demander-justice
+- name: Diamond
+  url: https://www.diamond.io/
+  description: Uses AI to help you work faster
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: diamond
+- name: Digitail
+  url: https://www.digitail.io/
+  description: Veterinary Software for the Modern Veterinary Practice
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  slug: digitail
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Djamo
+  url: https://www.djamo.com/
+  description: Neobank in Francophone Africa
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: djamo
+- name: E-Peas
+  url: https://e-peas.com/
+  description: Energy-harvesting and battery-less IoT sensors
+  sector: Industrial, Energy & IoT
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: e-peas
+- name: Easop
+  url: https://www.easop.com/
+  description: Platform making ESOP simple & accessible for every SMB
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: easop
+- name: Ecovadis
+  url: https://ecovadis.com/
+  description: The trusted provider of business sustainability
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  slug: ecovadis
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Endless West
+  url: https://endlesswest.com/
+  description: Molecular spirits and chocolate, enabled by technology
+  sector: Food & Agritech
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: endless-west
+- name: Energysquare
+  url: https://energysquare.co/
+  description: New generation of wireless conductive chargers
+  sector: Industrial, Energy & IoT
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: energysquare
+- name: Enter
+  url: https://www.enter.de/
+  description: End-to-end platform to decarbonize homes
+  sector: Climate
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: enter
+- name: Epsor
+  url: https://www.epsor.fr/
+  description: Cloud-based employee savings platform
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: epsor
+- name: Ermeo
+  url: http://www.ermeo.com/
+  description: Augmented documentation Saas
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ermeo
+- name: Europass
+  url: https://europasschina.com/
+  description: Payment solutions dedicated to Chinese travelers
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: europass
+- name: Evaneos
+  url: https://www.evaneos.com/
+  description: Online marketplace for booking tailor-made trips
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: evaneos
+- name: Exein
+  url: https://www.exein.io/
+  description: Next generation IoT embedded cybersecurity
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: exein
+- name: Exporo
+  url: https://exporo.com/
+  description: Digital platform for real estate investments
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: exporo
+- name: Fastwork
+  url: https://fastwork.co/
+  description: Professional freelancing platform
+  sector: Marketplace
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fastwork
+- name: Fazz
+  url: https://fazz.com/
+  description: Helps businesses of all sizes access financial services
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  slug: fazz
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Feetme
+  url: https://feetmehealth.com/
+  description: Real-time, gait, and activity analysis
+  sector: Healthcare
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: feetme
+- name: Finku
+  url: https://www.finku.id/
+  description: Indonesian personal finance app
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: finku
+- name: Flatlooker
+  url: https://www.flatlooker.com/
+  description: Platform to visit any accommodation remotely
+  sector: Marketplace
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: flatlooker
+- name: Flease
+  url: https://www.flease.fr/
+  description: Refurbished vehicle leasing for enterprise fleets.
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: flease
+- name: FlexAI
+  url: https://www.flex.ai/
+  description: Building universal AI compute
+  sector: AI/ML
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: flexai
+- name: Formality
+  url: https://www.formality.com/
+  description: The premier AI solution for managing legal documents
+  sector: AI/ML
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: formality
+- name: Foxintelligence
+  url: https://www.foxintelligence.io/
+  description: Offers the most exhaustive data on digital markets.
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: foxintelligence
+- name: Fresha
+  url: https://www.fresha.com/
+  description: Booking software & marketplace for hair & beauty salons
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fresha
+- name: Freterium
+  url: https://www.freterium.com/
+  description: Cloud transportation operating system for shippers
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: freterium
+- name: Frontier Car group
+  url: https://www.frontiercargroup.com/
+  description: C2B live auction-based marketplace
+  sector: Marketplace
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: frontier-car-group
+- name: FYLD
+  url: https://fyld.ai/
+  description: Frontline intelligence. Driving operational excellence
+  sector: Industrial, Energy & IoT
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fyld
+- name: Gebeya
+  url: https://www.gebeya.com/
+  description: IT training platform and a talent marketplace
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gebeya
+- name: Gens de confiance
+  url: https://gensdeconfiance.fr/
+  description: Generalist marketplace based on membership
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gens-de-confiance
+- name: Getsafe
+  url: https://www.hellogetsafe.com/
+  description: D2C insurance provider for millennials
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: getsafe
+- name: Gfycat
+  url: https://gfycat.com/
+  description: The leading community driven platform for gifs
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  slug: gfycat
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Gireve
+  url: https://www.gireve.com/
+  description: Get Connected To The Mobility Of Tomorrow
+  sector: Climate
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gireve
+- name: Glofox
+  url: https://www.glofox.com/
+  description: The complete gym-studio management software solution
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  slug: glofox
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Gourmey
+  url: https://www.gourmey.com/
+  description: Cultivated meat, starting with French foie-gras
+  sector: Food & Agritech
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gourmey
+- name: Grabr
+  url: https://grabr.io/
+  description: Peer-to-peer global shopping and delivery network
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: grabr
+- name: Greenlyte
+  url: https://www.greenlyte.tech/
+  description: Reducing Emissions and Getting Value from Air
+  sector: Climate
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: greenlyte
+- name: Groover
+  url: https://groover.co/
+  description: Connecting emerging artists with media and music labels
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: groover
+- name: Guardicore
+  url: https://www.guardicore.com/
+  description: Protects hybrid cloud workloads
+  sector: Infrastructure SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: guardicore
+- name: Happytal
+  url: https://www.happytal.com/
+  description: SaaS platform for hospitals
+  sector: Consumer
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: happytal
+- name: HD
+  url: http://www.hd.care/
+  description: Healthcare & surgery marketplace in Southeast Asia
+  sector: Healthcare
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hd
+- name: Healint
+  url: https://healint.com/
+  description: High-relevance data and real-time insights
+  sector: Healthcare
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: healint
+- name: Holberton School
+  url: https://holbertonschool.com/
+  description: A project-based alternative to college
+  sector: Consumer
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: holberton-school
+- name: Homebase
+  url: https://homebase.com.vn/
+  description: Real estate financing platform in Vietnam
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  slug: homebase
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: HostnFly
+  url: https://www.hostnfly.com/
+  description: Conciergerie platform developing algorithms
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hostnfly
+- name: Hum Capital
+  url: https://humcapital.com/
+  description: Credit financing software generating venture debt
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hum-capital
+- name: Hyground
+  url: https://hyground.ai/
+  description: AI SRE Agent for enterprise IT operations teams
+  sector: AI/ML
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hyground
+- name: Idecsi
+  url: https://www.idecsi.com/
+  description: An innovative cybersecurity company
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: idecsi
+- name: igloo
+  url: https://iglooinsure.com/
+  description: Enabling full-stack insurance accessible for all
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: igloo
+- name: IMP Software
+  url: https://impsoftware.co.uk/
+  description: MAT finance without the faff
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: imp-software
+- name: Inmemori
+  url: https://www.inmemori.com/
+  description: Online platform to create & share memorials
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: inmemori
+- name: Inyad
+  url: https://www.inyad.com/
+  description: Mobile apps that empower small and medium businesses
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: inyad
+- name: Jellysmack
+  url: http://www.jellysmack.com/
+  description: Video company providing content in video formats
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: jellysmack
+- name: Joko
+  url: https://home.joko.com/
+  description: Reinvent the shopping experience
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: joko
+- name: Kaizo
+  url: https://kaizo.com/
+  description: Performance development software that uses gamification
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kaizo
+- name: Kantox
+  url: https://www.kantox.com/
+  description: FX risk management SaaS platform
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kantox
+- name: Karnott
+  url: https://www.karnott.fr/
+  description: Analysis & maintenance software for farmers' equipment
+  sector: Food & Agritech
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: karnott
+- name: Kartable
+  url: https://www.kartable.com/
+  description: Online high school education platform in France
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kartable
+- name: Kenbi
+  url: https://kenbi.de/
+  description: Digitally enabled elderly people care provider
+  sector: Healthcare
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kenbi
+- name: KoRo
+  url: https://www.koro.com/
+  description: High-quality food available to everyone at fair prices
+  sector: Food & Agritech
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: koro
+- name: Kredete
+  url: https://www.kredete.io/
+  description: Send money, build credit
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kredete
+- name: Kyash
+  url: https://kyash.co/
+  description: Challenger bank with full-stack banking technologies
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kyash
+- name: La Solive
+  url: https://www.la-solive.com/
+  description: The energy renovation school
+  sector: Climate
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: la-solive
+- name: La Vie
+  url: https://www.laviefoods.com/
+  description: The next generation developer of plant-based meat
+  sector: Food & Agritech
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: la-vie
+- name: Lalilo
+  url: https://lalilo.com/
+  description: An online literacy program built by teachers
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lalilo
+- name: Le Collectionist
+  url: https://lecollectionist.com/
+  description: Vacation experiences at high end villas
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: le-collectionist
+- name: LemonBox
+  url: https://www.lemonbox.com.cn/
+  description: Provider of personalized daily vitamin packs
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lemonbox
+- name: Lendtable
+  url: https://lendtable.com/
+  description: Cash lending platform for employer-sponsored pensions
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lendtable
+- name: Lifen
+  url: https://www.lifen.fr/
+  description: Digitally transforming medical communication
+  sector: Healthcare
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lifen
+- name: littlefish
+  url: https://littlefishapp.com/
+  description: Fintech platform uniting merchant class and banks
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: littlefish
+- name: Lucky Cart
+  url: http://luckycart.com/
+  description: Transforming e-commerce Big Data
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lucky-cart
+- name: M-Files
+  url: https://www.m-files.com/
+  description: Hybrid-cloud based Document Management System
+  sector: Infrastructure SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: m-files
+- name: Macrometa
+  url: https://www.macrometa.co/
+  description: Serverless platform for building distributed apps
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: macrometa
+- name: MadKudu
+  url: http://madkudu.com/
+  description: Predictive analytics solution improving conversion rate
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: madkudu
+- name: Makersite
+  url: https://makersite.io/
+  description: AI-Powered Product Lifecycle Intelligence
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: makersite
+- name: ManoMano
+  url: https://www.manomano.co.uk/
+  description: Online marketplace in DIY and home improvement
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: manomano
+- name: Markable
+  url: https://www.markable.ai/
+  description: Leading AI visual discovery shopping engine
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: markable
+- name: Material Exchange
+  url: https://material-exchange.com/
+  description: B2B marketplace for the global fashion industry
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: material-exchange
+- name: Maze
+  url: https://maze.co/
+  description: Empowers product & marketing teams to test, learn & act
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: maze
+- name: Medigate
+  url: http://www.medigate.io/
+  description: Medical device security and asset management platform
+  sector: Infrastructure SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: medigate
+- name: Memfault
+  url: https://memfault.com/
+  description: Cloud-based monitoring and debugging solution
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  slug: memfault
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Merama
+  url: https://www.merama.io/
+  description: Your brand’s true partner in growth.
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: merama
+- name: Mercanis
+  url: https://www.mercanis.com/
+  description: The Agentic-AI Procurement Suite
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mercanis
+- name: Metadata
+  url: https://www.metadata.io/
+  description: B2B autonomous demand generation platform
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: metadata
+- name: METYCLE
+  url: https://metycle.com/
+  description: The digital platform for secondary metal trade
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: metycle
+- name: Mindlogic
+  url: https://mindlogic.ai/
+  description: The world first Social AI Chatting Metaverse service
+  sector: AI/ML
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mindlogic
+- name: Mindsay
+  url: https://www.mindsay.com/
+  description: A leading no-code/low-code conversational AI platform
+  sector: AI/ML
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mindsay
+- name: Mipsology
+  url: https://mipsology.com/
+  description: Deep Learning compute engine
+  sector: AI/ML
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mipsology
+- name: Modeinspect
+  url: https://modeinspect.com/
+  description: Design in code with AI
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: modeinspect
+- name: Monax Labs
+  url: http://www.monaxlabs.io/
+  description: Platform to ensure NFT transactions are secure & legal
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: monax-labs
+- name: Moneyfellows
+  url: https://moneyfellows.com/
+  description: Collaborative money management and lending platform
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: moneyfellows
+- name: Mooncard
+  url: https://www.mooncard.co/
+  description: The complete payment solution for businesses
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mooncard
+- name: My Real Trip
+  url: https://www.myrealtrip.com/
+  description: Korea's leading online travel platform
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: my-real-trip
+- name: NA-KD
+  url: https://www.na-kd.com/
+  description: Global fashion digital brand focusing on social media
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: na-kd
+- name: Nano
+  url: https://vuiapp.vn/
+  description: Leading the market for Vietnamese earned wage access
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  slug: nano
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Nawy
+  url: https://www.nawy.com/
+  description: Africa’s largest proptech
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nawy
+- name: Neoplants
+  url: https://neoplants.com/
+  description: Bioengineering plants to fight air pollution
+  sector: Climate
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: neoplants
+- name: Netbeez
+  url: https://netbeez.net/
+  description: Network performance monitoring
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: netbeez
+- name: Nomad Homes
+  url: https://nomadhomes.co/
+  description: End-to-end marketplace for buying and selling homes
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nomad-homes
+- name: Nomba
+  url: https://nomba.com/
+  description: Digital payment and collection platform
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  slug: nomba
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: NovaSparks
+  url: https://novasparks.com/
+  description: Leader in high performance FPGA-based trading solutions
+  sector: Infrastructure SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: novasparks
+- name: Novicap
+  url: https://novicap.com/
+  description: Invoice finance platform for SMEs
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: novicap
+- name: Nowports
+  url: https://nowports.com/
+  description: First digital freight forwarder in LATAM
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nowports
+- name: NPco
+  url: https://www.npco.ai/
+  description: An AI-native physics simulation software for engineers
+  sector: Industrial, Energy & IoT
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: npco
+- name: Odaseva
+  url: https://www.odaseva.com/
+  description: All-in-one cloud data management platform
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: odaseva
+- name: Once
+  url: https://getonce.com/
+  description: A dating app making waves in the world.
+  sector: Consumer
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: once
+- name: OpenIO
+  url: https://www.openio.io/
+  description: Next-gen object storage & serverless computing solution
+  sector: Infrastructure SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: openio
+- name: Opensesame
+  url: http://opensesame.com/
+  description: Online training courses for businesses
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: opensesame
+- name: OpsMill
+  url: https://opsmill.com/
+  description: An AI-ready network and IT infrastructure company.
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: opsmill
+- name: Ornikar
+  url: https://www.ornikar.com/
+  description: The revolutionary online driving school marketplace
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ornikar
+- name: Orus
+  url: https://www.orus.eu/
+  description: Commercial insurance empowering SMBs
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: orus
+- name: Oviva
+  url: http://oviva.com/
+  description: Online nutritional consultation platform for patients
+  sector: Healthcare
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: oviva
+- name: Pandas
+  url: https://pandas.com.co/
+  description: Connecting LatAm micro-businesses to Asian markets
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  slug: essity
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Papernest
+  url: https://www.papernest.com/
+  description: Lift the burden of administrative routines
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: papernest
+- name: Payt
+  url: https://www.paytsoftware.com/
+  description: Smart accounts receivable management software
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: payt
+- name: Peanut App
+  url: https://www.peanut-app.io/
+  description: Geo-based community application connecting women
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: peanut-app
+- name: Pennylane
+  url: https://www.pennylane.tech/
+  description: Tech-enabled automated accountancy software for SMBs
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  slug: pennylane
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: People.ai
+  url: https://people.ai/
+  description: AI based platform processing sales performance
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: peopleai
+- name: PerfectStay
+  url: https://www.perfectstay.com/
+  description: Travel package management companion for B2B players
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: perfectstay
+- name: Pimento
+  url: https://www.pimento.design/
+  description: The Gen AI companion for creatives
+  sector: AI/ML
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pimento
+- name: Plans
+  url: https://lun.energy/
+  description: Creating plans for better buildings
+  sector: Climate
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: plans
+- name: Plato
+  url: https://www.platohq.com/
+  description: Mentorship platform for tech managers
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: plato
+- name: Plum
+  url: https://www.plum-living.com/
+  description: Home design and decoration platform for home projects
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: plum
+- name: Plumerai
+  url: https://plumerai.com/
+  description: Powerful AI for trillions of edge devices
+  sector: AI/ML
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: plumerai
+- name: Popmeals
+  url: https://popmeals.com.my/
+  description: Fresh chef-made food delivering platform
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: popmeals
+- name: Precium
+  url: https://precium.com/
+  description: End-to-end payment ops platform for emerging markets
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: precium
+- name: Presti
+  url: http://presti.ai/
+  description: AI-generated product photography
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: presti
+- name: PrimaryIO
+  url: http://www.primaryio.com/
+  description: Hybrid Cloud Data Management for Cloud Mobility
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: primaryio
+- name: Privitar
+  url: https://www.privitar.com/
+  description: Enterprise data privacy and anonymization platform
+  sector: Infrastructure SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: privitar
+- name: Prolific
+  url: https://www.prolific.co/
+  description: Definitive human data to deliver world-leading research
+  sector: AI/ML
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: prolific
+- name: PropertyScout
+  url: https://propertyscout.co.th/
+  description: Building a real estate transaction platform
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  slug: eli
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Propseller
+  url: https://propseller.com/
+  description: Offering property owners a reliable way to sell
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: propseller
+- name: Push Doctor
+  url: https://www.pushdoctor.co.uk/
+  description: The future of healthcare
+  sector: Healthcare
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: push-doctor
+- name: Pydantic
+  url: https://pydantic.dev/
+  description: The most widely used data validation library for Python
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  slug: pydantic-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Qapa
+  url: http://qapa.fr/
+  description: The job search solution
+  sector: Marketplace
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: qapa
+- name: Qevlar AI
+  url: https://www.qevlar.com/
+  description: AI SOC Platform for Network Security
+  sector: AI/ML
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: qevlar-ai
+- name: QPLIX
+  url: https://www.qplix.com/
+  description: The Operating System of Wealth
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: qplix
+- name: Quasar
+  url: https://quasar.ai/
+  description: Radically simplifying data engineering
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: quasar
+- name: QUIBIM
+  url: https://www.quibim.com/
+  description: Biotech company dedicated to medical image processing
+  sector: Healthcare
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: quibim
+- name: Reliance Health
+  url: https://www.getreliancehealth.com/
+  description: Online health insurance platform for all
+  sector: Healthcare
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: reliance-health
+- name: Remarkable AI
+  url: https://www.beremarkable.ai/
+  description: AI for 1:1 conversations between consumers and brands
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: remarkable-ai
+- name: Remedee Labs
+  url: https://remedeelabs.com/
+  description: Developer of a wearable electronic endorphin simulator
+  sector: Healthcare
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: remedee-labs
+- name: Resilinc
+  url: https://www.resilinc.com/
+  description: Cloud based Supply Chain resilience and risk management
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  slug: resilinc
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Resolution Games
+  url: http://resolutiongames.com/
+  description: VR/AR gaming development studio
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: resolution-games
+- name: Retraced
+  url: https://www.retraced.com/
+  description: Transparent fashion supply chains
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: retraced
+- name: Revibe
+  url: https://revibe.me/
+  description: Renewed electronics
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: revibe
+- name: Rinse
+  url: https://www.rinse.com/
+  description: Dry cleaning and Laundry services platform
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rinse
+- name: Roadsync
+  url: https://www.roadsync.com/
+  description: Digital payment solution for freight/logistics
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: roadsync
+- name: RockFi
+  url: https://www.rockfi.fr/
+  description: The new private wealth management
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rockfi
+- name: Roger
+  url: https://goroger.com/
+  description: The automated dental clinic
+  sector: Healthcare
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: roger
+- name: Rohlik
+  url: https://www.rohlik.group/
+  description: Online grocery retailer in CEE and Western Europe
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rohlik
+- name: Rouje
+  url: https://int.rouje.com/
+  description: The French digital native brand of women’s fashion
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rouje
+- name: SambaTV
+  url: https://samba.tv/
+  description: TV personalization platform leveraging viewership data
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sambatv
+- name: scnd
+  url: https://www.scnd.com/
+  description: The marketplace solution to sell services online
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: scnd
+- name: Seatti
+  url: https://www.seatti.co/
+  description: Enabling hybrid work for global corporations
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: seatti
+- name: Sendwave
+  url: https://www.sendwave.com/
+  description: The largest digital remittance company in Africa
+  sector: Financial Services
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sendwave
+- name: Sensee
+  url: http://sensee.com/
+  description: The leading online eyewear company in France
+  sector: Consumer
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sensee
+- name: Sensome
+  url: https://www.sensome.com/
+  description: Revolutionary sensing technology
+  sector: Healthcare
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sensome
+- name: Shakers
+  url: https://www.shakersworks.com/
+  description: The home of freeworking
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: shakers
+- name: Shippeo
+  url: https://www.shippeo.com/
+  description: Collaborative SaaS platform to track shipments
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  slug: shippeo
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Shipper
+  url: https://shipper.id/
+  description: Tech-enabled full services logistics company
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: shipper
+- name: Shohoz
+  url: https://www.shohoz.com/
+  description: Ride-sharing and online ticketing platform
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: shohoz
+- name: SideCare
+  url: https://www.sidecare.com/
+  description: Health insurance platform for enterprises
+  sector: Financial Services
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sidecare
+- name: Sigfox
+  url: http://sigfox.com/
+  description: IoT communication service & 0G network pioneer
+  sector: Industrial, Energy & IoT
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sigfox
+- name: Skello
+  url: https://en.skello.io/
+  description: Workforce Management Platform for shift-based workers
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: skello
+- name: Sketchfab
+  url: http://sketchfab.com/
+  description: Online publishing platform for interactive 3D files
+  sector: Marketplace
+  status: unknown
+  source: https://partechpartners.com/companies
+  slug: sketchfab
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Smartness
+  url: https://www.smartness.com/
+  description: Revenue Management System for Hotels
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: smartness
+- name: Sorare
+  url: https://sorare.com/
+  description: Sorare is a global fantasy football game
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  slug: sorare
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Stilla Technologies
+  url: https://www.stillatechnologies.com/
+  description: Microfluidic innovations
+  sector: Healthcare
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: stilla-technologies
+- name: Streamroot
+  url: https://streamroot.io/
+  description: P2P streaming technology that reduces bandwidth costs
+  sector: Infrastructure SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: streamroot
+- name: Studocu
+  url: https://www.studocu.com/
+  description: Knowledge sharing platform for students
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: studocu
+- name: Sumary
+  url: https://sumary.com/
+  description: AI for finance, finally
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sumary
+- name: SustainCERT
+  url: https://sustain-cert.com/
+  description: Verification/certification of carbon reduction projects
+  sector: Climate
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sustaincert
+- name: Symmetrical
+  url: https://symmetrical.ai/
+  description: Employee savings platform supported by API software
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: symmetrical
+- name: TerraPay
+  url: https://www.terrapay.com/
+  description: Mobile-first payment infrastructure services
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: terrapay
+- name: TestGorilla
+  url: https://www.testgorilla.com/
+  description: Pre-employment testing software company
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: testgorilla
+- name: The Bouqs
+  url: https://bouqs.com/
+  description: Online platform for eco-friendly flowers delivery
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: the-bouqs
+- name: The Exploration Company
+  url: https://www.exploration.space/
+  description: Democratizing space exploration
+  sector: Industrial, Energy & IoT
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: the-exploration-company
+- name: TheGuarantors
+  url: http://theguarantors.com/
+  description: Fully digital online real estate insurance platform
+  sector: Financial Services
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: theguarantors
+- name: Tinvio
+  url: https://tinvio.com/
+  description: Communication and commerce platform that manages orders
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tinvio
+- name: Toss
+  url: https://toss.im/
+  description: Mobile money application platform in Korea
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  slug: toss
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Track Titan
+  url: https://www.tracktitan.io/
+  description: The Strava for Motorsport
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: track-titan
+- name: TradeDepot
+  url: https://www.tradedepot.co/
+  description: SaaS platform for Consumer Goods distribution
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tradedepot
+- name: Transcelestial
+  url: https://transcelestial.com/
+  description: Ultra-high bandwidth wireless laser communication
+  sector: Industrial, Energy & IoT
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: transcelestial
+- name: TransferRoom
+  url: https://www.transferroom.com/
+  description: Digitizing and simplifying football’s transfer market
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: transferroom
+- name: Tugende
+  url: https://gotugende.com/
+  description: Helping motorcycle taxi drivers own their vehicles
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tugende
+- name: TVTY
+  url: http://tvty.tv/
+  description: The world's most advanced TV monitoring platform
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tvty
+- name: Ubble
+  url: https://www.ubble.ai/
+  description: Online identity verification solution
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ubble
+- name: Ukio
+  url: https://www.stayukio.com/
+  description: Artfully-designed & curated apartments with everything
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ukio
+- name: Upmem
+  url: http://www.upmem.com/
+  description: Dedicated to Processing In-Memory (PIM)
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: upmem
+- name: UpSlide
+  url: https://www.upslide.net/
+  description: The productivity & compliance solution for Microsoft
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: upslide
+- name: Upsun
+  url: https://upsun.com/
+  description: The cloud application platform humans and robots love
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: upsun
+- name: Upvest
+  url: https://upvest.co/
+  description: Solution for retail investors to store crypto assets
+  sector: Financial Services
+  status: unknown
+  source: https://partechpartners.com/companies
+  slug: upvest
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Urban Sports Club
+  url: https://urbansportsclub.com/
+  description: Monthly membership to sports and fitness centers
+  sector: Marketplace
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: urban-sports-club
+- name: Us2.AI
+  url: https://us2.ai/
+  description: Echo AI assistant to perform and read echocardiograms
+  sector: Healthcare
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: us2ai
+- name: V7 Labs
+  url: https://www.v7labs.com/
+  description: SaaS creation platform of high-quality training data
+  sector: AI/ML
+  status: active
+  source: https://partechpartners.com/companies
+  slug: v7-labs
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Vendease
+  url: https://vendease.com/
+  description: Makrtplace connecting African restaurants to suppliers
+  sector: Marketplace
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vendease
+- name: Volterra
+  url: https://www.ves.io/
+  description: Large-scale DDoS protection for Service Providers
+  sector: Infrastructure SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: volterra
+- name: Vsora
+  url: http://www.vsora.com/
+  description: IP provider for chipmakers of digital communications
+  sector: AI/ML
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vsora
+- name: Vyne
+  url: https://www.payvyne.com/
+  description: Account to Account (A2A) payment infrastructure
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vyne
+- name: Walkie-Talkie
+  url: https://walkie-talkie.io/
+  description: Social audio mobile app for Gen Z
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: walkie-talkie
+- name: Wallarm
+  url: https://www.wallarm.com/
+  description: Complete solution platform to protect websites
+  sector: Infrastructure SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  slug: wallarm
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Wanted
+  url: https://getwanted.com/
+  description: Improving job market transparency by empowering talent
+  sector: Applicative SaaS
+  status: unknown
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: wanted
+- name: Wave
+  url: https://www.wave.com/
+  description: Money Transfer Operator offering remittance services
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  slug: wave-mobile-money
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Weglot
+  url: https://weglot.com/
+  description: No code solution to translate any website
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  slug: weglot
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Worders
+  url: https://worders.net/
+  description: High-end online B2B translation solution
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: worders
+- name: Xendit
+  url: https://www.xendit.co/
+  description: Payment solutions that simplify the payment process
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  slug: xendit
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: xFarm Technologies
+  url: https://xfarm.ag/
+  description: Digital Farming Ecosystem for Farmers & Agrifood Supply
+  sector: Food & Agritech
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: xfarm-technologies
+- name: Yampa
+  url: https://www.yampa.ai/
+  description: Autonomous AI Agents for a New Era of Customer Care
+  sector: AI/ML
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: yampa
+- name: Yoco
+  url: https://www.yoco.com/
+  description: Payment aggregator offering payments solution
+  sector: Financial Services
+  status: active
+  source: https://partechpartners.com/companies
+  slug: yoco
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Zaapi
+  url: https://en.zaapi.com/
+  description: Building a digital commerce infrastructure for MSMEs
+  sector: Applicative SaaS
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zaapi
+- name: Zeel
+  url: http://zeel.com/
+  description: On demand home massages marketplace
+  sector: Consumer
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zeel
+- name: Zenyum
+  url: https://www.zenyum.com/
+  description: Cosmetic dentistry company selling alligners
+  sector: Healthcare
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zenyum
+- name: Zolar
+  url: https://www.zolar.de/
+  description: Online service provider for residential solar systems
+  sector: Climate
+  status: active
+  source: https://partechpartners.com/companies
+  in_network: false
+  is_api_provider: false
+  suggested_slug: zolar
