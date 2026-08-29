@@ -1,6 +1,17 @@
 aid: partech
 name: Partech
 description: 'Partech is a global, multi-stage venture capital firm founded in 1982 in Silicon Valley by European pioneers and headquartered in Paris, France, with offices in San Francisco, Berlin, Milan and Dakar. Partech invests from day one through growth via a family of dedicated funds: a Seed fund (since 2013, initial checks EUR 300k-3m), a Venture fund (Series A and Series B, EUR 5-12m, focused on B2B mission-critical software), a Growth fund (since 2015, EUR 25-70m and up to EUR 100m with LPs for European scale-ups with EUR 10-100m+ run rate), an Africa fund (since 2017, seed to Series C, EUR 1-15m across the continent) and an Impact fund (EUR 15-40m, Article 9 under SFDR). Core sectors span applicative and infrastructure SaaS, financial services and fintech/insurtech, marketplaces, consumer, healthcare, AI/ML, climate, security and cloud infrastructure. Partech backs founders across Europe, Africa and North America and has built a portfolio of hundreds of technology companies.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
