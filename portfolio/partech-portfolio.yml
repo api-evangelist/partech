@@ -3,9 +3,9 @@ method: searched
 source: https://partechpartners.com/companies
 summary:
   portfolio_total: 269
-  in_network: 269
-  api_providers: 38
-  missing: 0
+  in_network: 258
+  api_providers: 40
+  missing: 11
   stubs_created: 0
 companies:
 - name: AB Tasty
@@ -104,7 +104,7 @@ companies:
   sector: Financial Services
   status: unknown
   source: https://partechpartners.com/companies
-  slug: alan
+  slug: alan-com
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -125,7 +125,7 @@ companies:
   status: unknown
   source: https://partechpartners.com/companies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: alkemics
   matched_by: domain
 - name: Alltricks
@@ -234,10 +234,10 @@ companies:
   sector: Healthcare
   status: active
   source: https://partechpartners.com/companies
-  slug: ava
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  x-name-collision: ava
+  suggested_slug: ava-me
 - name: Beacon Power Services
   url: https://beaconpowerservices.com/
   description: Transforming Energy Management Through Innovation
@@ -254,10 +254,10 @@ companies:
   sector: Consumer
   status: active
   source: https://partechpartners.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: beam
-  matched_by: name-slug
+  x-name-collision: beam
+  suggested_slug: ridebeam-com
 - name: Beam Checkout
   url: https://www.beamcheckout.com/
   description: One-click Checkout for Online Stores
@@ -324,10 +324,10 @@ companies:
   sector: Applicative SaaS
   status: active
   source: https://partechpartners.com/companies
-  slug: blink
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  x-name-collision: blink
+  suggested_slug: joinblink-com
 - name: Bloomon
   url: https://www.bloomon.co.uk/
   description: An online flower subscription service
@@ -356,7 +356,7 @@ companies:
   source: https://partechpartners.com/companies
   slug: brandwatch
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: domain
 - name: Brevo
   url: https://www.brevo.com/
@@ -384,10 +384,10 @@ companies:
   sector: Financial Services
   status: unknown
   source: https://partechpartners.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: cambridge-blockchain
-  matched_by: name-slug
+  x-name-collision: cambridge-blockchain
+  suggested_slug: cambridgeblockchain-org
 - name: Candex
   url: https://www.candex.com/
   description: Collaboration apps to manage corporate payments
@@ -543,10 +543,10 @@ companies:
   sector: Food & Agritech
   status: unknown
   source: https://partechpartners.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: dejbox
-  matched_by: name-slug
+  x-name-collision: dejbox
+  suggested_slug: dejbox-fr
 - name: Demander Justice
   url: http://demanderjustice.com/
   description: Online platform to access legal services
@@ -733,10 +733,10 @@ companies:
   sector: Healthcare
   status: active
   source: https://partechpartners.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: feetme
-  matched_by: name-slug
+  x-name-collision: feetme
+  suggested_slug: feetmehealth-com
 - name: Finku
   url: https://www.finku.id/
   description: Indonesian personal finance app
@@ -825,7 +825,7 @@ companies:
   source: https://partechpartners.com/companies
   in_network: true
   is_api_provider: false
-  slug: frontiercargroup
+  slug: frontier-car-group
   matched_by: domain
 - name: FYLD
   url: https://fyld.ai/
@@ -993,10 +993,10 @@ companies:
   sector: Financial Services
   status: active
   source: https://partechpartners.com/companies
-  slug: homebase
+  slug: biplus
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
 - name: HostnFly
   url: https://www.hostnfly.com/
   description: Conciergerie platform developing algorithms
@@ -1294,7 +1294,7 @@ companies:
   status: active
   source: https://partechpartners.com/companies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: madkudu
   matched_by: domain
 - name: Makersite
@@ -1394,7 +1394,7 @@ companies:
   status: active
   source: https://partechpartners.com/companies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: metadata
   matched_by: domain
 - name: METYCLE
@@ -1503,10 +1503,10 @@ companies:
   sector: Financial Services
   status: active
   source: https://partechpartners.com/companies
-  slug: nano
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  x-name-collision: nano
+  suggested_slug: vuiapp-vn
 - name: Nawy
   url: https://www.nawy.com/
   description: Africa’s largest proptech
@@ -1783,10 +1783,10 @@ companies:
   sector: Consumer
   status: active
   source: https://partechpartners.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: plum
-  matched_by: name-slug
+  x-name-collision: plum
+  suggested_slug: plum-living-com
 - name: Plumerai
   url: https://plumerai.com/
   description: Powerful AI for trillions of edge devices
@@ -1863,7 +1863,7 @@ companies:
   sector: Marketplace
   status: active
   source: https://partechpartners.com/companies
-  slug: eli
+  slug: 24fix
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -2335,7 +2335,7 @@ companies:
   source: https://partechpartners.com/companies
   in_network: true
   is_api_provider: false
-  slug: exploration
+  slug: the-exploration-company
   matched_by: domain
 - name: TheGuarantors
   url: http://theguarantors.com/
@@ -2353,10 +2353,10 @@ companies:
   sector: Applicative SaaS
   status: active
   source: https://partechpartners.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: tinvio
-  matched_by: name-slug
+  x-name-collision: tinvio
+  suggested_slug: tinvio-com
 - name: Toss
   url: https://toss.im/
   description: Mobile money application platform in Korea
@@ -2443,10 +2443,10 @@ companies:
   sector: Consumer
   status: active
   source: https://partechpartners.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: ukio
-  matched_by: name-slug
+  x-name-collision: ukio
+  suggested_slug: stayukio-com
 - name: Upmem
   url: http://www.upmem.com/
   description: Dedicated to Processing In-Memory (PIM)
@@ -2533,10 +2533,10 @@ companies:
   sector: Infrastructure SaaS
   status: unknown
   source: https://partechpartners.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: volterra
-  matched_by: name-slug
+  x-name-collision: volterra
+  suggested_slug: ves-io
 - name: Vsora
   url: http://www.vsora.com/
   description: IP provider for chipmakers of digital communications

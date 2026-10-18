@@ -1,4 +1,81 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: partech
-leads: []
+leads:
+- name: Ava
+  url: http://www.ava.me/
+  suggested_slug: ava-me
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Beam
+  url: https://www.ridebeam.com/
+  suggested_slug: ridebeam-com
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Blink
+  url: https://joinblink.com/
+  suggested_slug: joinblink-com
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Cambridge Blockchain
+  url: https://cambridgeblockchain.org/
+  suggested_slug: cambridgeblockchain-org
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Dejbox
+  url: https://www.dejbox.fr/
+  suggested_slug: dejbox-fr
+  sector: Food & Agritech
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Feetme
+  url: https://feetmehealth.com/
+  suggested_slug: feetmehealth-com
+  sector: Healthcare
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Nano
+  url: https://vuiapp.vn/
+  suggested_slug: vuiapp-vn
+  sector: Financial Services
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Plum
+  url: https://www.plum-living.com/
+  suggested_slug: plum-living-com
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Tinvio
+  url: https://tinvio.com/
+  suggested_slug: tinvio-com
+  sector: Applicative SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Ukio
+  url: https://www.stayukio.com/
+  suggested_slug: stayukio-com
+  sector: Consumer
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
+- name: Volterra
+  url: https://www.ves.io/
+  suggested_slug: ves-io
+  sector: Infrastructure SaaS
+  source_vc: partech
+  source: https://partechpartners.com/companies
+  stub_created: false
