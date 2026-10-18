@@ -236,8 +236,8 @@ companies:
   source: https://partechpartners.com/companies
   in_network: false
   is_api_provider: false
-  x-name-collision: ava
   suggested_slug: ava-me
+  x-name-collision: ava
 - name: Beacon Power Services
   url: https://beaconpowerservices.com/
   description: Transforming Energy Management Through Innovation
@@ -256,8 +256,8 @@ companies:
   source: https://partechpartners.com/companies
   in_network: false
   is_api_provider: false
-  x-name-collision: beam
   suggested_slug: ridebeam-com
+  x-name-collision: beam
 - name: Beam Checkout
   url: https://www.beamcheckout.com/
   description: One-click Checkout for Online Stores
@@ -326,8 +326,8 @@ companies:
   source: https://partechpartners.com/companies
   in_network: false
   is_api_provider: false
-  x-name-collision: blink
   suggested_slug: joinblink-com
+  x-name-collision: blink
 - name: Bloomon
   url: https://www.bloomon.co.uk/
   description: An online flower subscription service
@@ -386,8 +386,8 @@ companies:
   source: https://partechpartners.com/companies
   in_network: false
   is_api_provider: false
-  x-name-collision: cambridge-blockchain
   suggested_slug: cambridgeblockchain-org
+  x-name-collision: cambridge-blockchain
 - name: Candex
   url: https://www.candex.com/
   description: Collaboration apps to manage corporate payments
@@ -426,7 +426,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: cintoo
-  matched_by: name-slug
+  matched_by: domain
+  url: https://cintoo.com/en/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: CloudQuery
   url: https://www.cloudquery.io/
   description: Bringing Clarity into Cloud Infrastructure
@@ -545,8 +547,8 @@ companies:
   source: https://partechpartners.com/companies
   in_network: false
   is_api_provider: false
-  x-name-collision: dejbox
   suggested_slug: dejbox-fr
+  x-name-collision: dejbox
 - name: Demander Justice
   url: http://demanderjustice.com/
   description: Online platform to access legal services
@@ -735,8 +737,8 @@ companies:
   source: https://partechpartners.com/companies
   in_network: false
   is_api_provider: false
-  x-name-collision: feetme
   suggested_slug: feetmehealth-com
+  x-name-collision: feetme
 - name: Finku
   url: https://www.finku.id/
   description: Indonesian personal finance app
@@ -1505,8 +1507,8 @@ companies:
   source: https://partechpartners.com/companies
   in_network: false
   is_api_provider: false
-  x-name-collision: nano
   suggested_slug: vuiapp-vn
+  x-name-collision: nano
 - name: Nawy
   url: https://www.nawy.com/
   description: Africa’s largest proptech
@@ -1785,8 +1787,8 @@ companies:
   source: https://partechpartners.com/companies
   in_network: false
   is_api_provider: false
-  x-name-collision: plum
   suggested_slug: plum-living-com
+  x-name-collision: plum
 - name: Plumerai
   url: https://plumerai.com/
   description: Powerful AI for trillions of edge devices
@@ -2355,8 +2357,8 @@ companies:
   source: https://partechpartners.com/companies
   in_network: false
   is_api_provider: false
-  x-name-collision: tinvio
   suggested_slug: tinvio-com
+  x-name-collision: tinvio
 - name: Toss
   url: https://toss.im/
   description: Mobile money application platform in Korea
@@ -2445,8 +2447,8 @@ companies:
   source: https://partechpartners.com/companies
   in_network: false
   is_api_provider: false
-  x-name-collision: ukio
   suggested_slug: stayukio-com
+  x-name-collision: ukio
 - name: Upmem
   url: http://www.upmem.com/
   description: Dedicated to Processing In-Memory (PIM)
@@ -2535,8 +2537,8 @@ companies:
   source: https://partechpartners.com/companies
   in_network: false
   is_api_provider: false
-  x-name-collision: volterra
   suggested_slug: ves-io
+  x-name-collision: volterra
 - name: Vsora
   url: http://www.vsora.com/
   description: IP provider for chipmakers of digital communications
